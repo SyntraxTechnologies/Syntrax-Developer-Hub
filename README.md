@@ -4,6 +4,7 @@ Syntrax Developer Hub is an collection of tools for developers, That make develo
 **Minimum Requirements**
 - Windows 7 (Windows XP and Vista support is planned)
 - Python 3.14 if using the .py file
+- PSutil and Requests (Python Plugins)
 
 **Planned**
 - More Features
